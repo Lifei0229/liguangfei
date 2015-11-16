@@ -17,8 +17,6 @@
 @implementation QQViewController
 
 
-
-
 - (void)viewDidLoad
 {
     [super viewDidLoad];
